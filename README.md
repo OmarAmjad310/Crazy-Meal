@@ -8,4 +8,4 @@
 - how to deal with get localstorge
 
 # The deployment for the lab
-[Crazy-Meal]{}
+[Crazy-Meal]()
